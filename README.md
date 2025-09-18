@@ -26,7 +26,7 @@ The goal is to:
 
 ## 🌐 Live Report
 
-📎 [View the full interactive report here](https://Bashirat-Sulyman.github.io/covid-analysis/)
+📎 [View the full interactive report here](https://Bashirat-Sulyman.github.io/Covid-Analysis/)
 
 ---
 
